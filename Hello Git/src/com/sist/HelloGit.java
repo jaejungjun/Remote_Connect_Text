@@ -5,6 +5,7 @@ public class HelloGit {
 		System.out.println("Hello Git!");
 		System.out.println("What`s git?");
 		System.out.println("It`s collabraion");
+		System.out.println("It`s DVCS");
 	}
 
 }
